@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "price": 1499,
+        "image": "https://picsum.photos/seed/headphones/600/600",
+        "category": "Electronics",
+        "description": "High quality Bluetooth headphones with noise cancellation."
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "price": 24999,
+        "image": "https://picsum.photos/seed/smartphone/600/600",
+        "category": "Electronics",
+        "description": "Latest Android smartphone with excellent performance and battery life."
+    },
+    {
+        "id": 3,
+        "name": "Running Shoes",
+        "price": 2999,
+        "image": "https://picsum.photos/seed/shoes/600/600",
+        "category": "Fashion",
+        "description": "Comfortable running shoes for men and women."
+    },
+    {
+        "id": 4,
+        "name": "Casual T-Shirt",
+        "price": 799,
+        "image": "https://picsum.photos/seed/tshirt/600/600",
+        "category": "Fashion",
+        "description": "Cotton t-shirt available in multiple colors."
+    },
+    {
+        "id": 5,
+        "name": "Laptop",
+        "price": 55999,
+        "image": "https://picsum.photos/seed/laptop/600/600",
+        "category": "Electronics",
+        "description": "Powerful laptop suitable for work and gaming."
+    }
+]
